@@ -1,4 +1,4 @@
-# Form-Firebase
+# Form-Firebase live:https://auth-firebase9121.netlify.app/
 Form validation using Firebase typically involves validating user input on the client-side before sending it to Firebase for storage or processing. This can help prevent errors and ensure that the data being stored in Firebase is accurate and consistent.
 Form validation using Firebase typically involves validating user input on the client-side before sending it to Firebase for storage or processing. This can help prevent errors and ensure that the data being stored in Firebase is accurate and consistent.
 
